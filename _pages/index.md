@@ -16,12 +16,20 @@ permalink: /
   - 読書
     - とあるシリーズ, 忘却探偵シリーズ
   - アニメ
-    - コナン,
+    - 　　, 名探偵コナン
+  - ゲーム
+    - Backpack Battles, Stone Story RPG
 
 
 ### やりたいこと
 
-　1.
+  1. アルバイト
+  2. TOEIC600点, 基本情報技術者試験合格
+  3. 
+
+### Backpack Battles
+　
+
 
   
 ---
